@@ -114,4 +114,4 @@ html-css-assignment/
 ```
 
 ## 11. GitHub Repository
-https://github.com/your-username/html-css-assignment
+https://github.com/aayushchaudhary-123/html-css-assignment
